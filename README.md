@@ -1,5 +1,7 @@
 # Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 # Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
+### Name: Preethi J
+### Reg no: 212223220080
 ## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
 ## Procedure
